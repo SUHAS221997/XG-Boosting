@@ -9,19 +9,19 @@ Columns: 13 features
 
 Dataset Overview
 
-#: Pokémon ID number (unique identifier).
-Name: Name of the Pokémon.
-Type 1: Primary type of the Pokémon (e.g., Fire, Water).
-Type 2: Secondary type of the Pokémon (if applicable).
-Total: Sum of all base stats (HP, Attack, Defense, etc.).
-HP: Base health points.
-Attack: Base physical attack power.
-Defense: Base physical defense power.
-Sp. Atk: Base special attack power.
-Sp. Def: Base special defense power.
-Speed: Base speed.
-Generation: Pokémon generation (1-7).
-Legendary: Boolean indicating whether the Pokémon is legendary.
+1. #: Pokémon ID number (unique identifier).
+2. Name: Name of the Pokémon.
+3. Type 1: Primary type of the Pokémon (e.g., Fire, Water).
+4. Type 2: Secondary type of the Pokémon (if applicable).
+5. Total: Sum of all base stats (HP, Attack, Defense, etc.).
+6. HP: Base health points.
+7. Attack: Base physical attack power.
+8. Defense: Base physical defense power.
+9. Sp. Atk: Base special attack power.
+10. Sp. Def: Base special defense power.
+11. Speed: Base speed.
+12. Generation: Pokémon generation (1-7).
+13. Legendary: Boolean indicating whether the Pokémon is legendary.
 
 What You'll Learn:
 
